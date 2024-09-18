@@ -2,7 +2,7 @@
 
 # What is GitOps?
 
-Gitops it’s a devops practise that uses git repositories as a single source of truth to deploy your apps to manage infrastructure
+Gitops it’s a DevOps practice that uses Git repositories as a single source of truth for managing both applications and infrastructure
 
 # How it works?
 

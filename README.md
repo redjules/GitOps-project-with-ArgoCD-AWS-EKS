@@ -6,7 +6,7 @@ Gitops it’s a DevOps practice that uses Git repositories as a single source of
 
 # How it works?
 
-You connect your git repo with gitops tool and it will constantly check your repo If you have made any changes. Ex: you changed the image in the deployment manifest, you don’t have to manually run k apply as the gitops tool will automatically detect any changes made and synchronizes your app or infrastructure to match the desired state that you have defined in your repo (gitops uses git as single source of truth)
+You connect your Git repo with GitOps tool and it will constantly check your repo If you have made any changes. Ex: you changed the image in the deployment manifest, you don’t have to manually run k apply as the gitops tool will automatically detect any changes made and synchronizes your app or infrastructure to match the desired state that you have defined in your repo (gitops uses git as single source of truth)
 
 ![image](https://github.com/user-attachments/assets/a55a863b-2278-49c1-bbcc-c2b5ffa45c17)
 

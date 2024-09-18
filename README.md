@@ -15,10 +15,15 @@ You connect your git repo with gitops tool and it will constantly check your rep
 # Advantages
 
 With gitops you can automate the deployment and management of infrastructure reducing the need of any manual intervention and minimizing human errors.
+
 **Version control:** with Git as a foundation in gitops you have full version control and you can easily track any changes or roll back if any issue arises
+
 **Consistency:** when you use gitops with your different environments like staging, production and development all of them will have same config settings that you have defined in your git repositories that will avoid any configuration issues that might occur if you do it manually
+
 **Security:** you can control access to your repos providing robust security and only allowing authorized users to make changes to your app or to your infrastructure
+
 **Efficiency**: or faster time to deployments when using gitops, you don’t have to manually run the commands reducing the time that it takes to deploy your changes or updates
+
 
 # Steps
 
